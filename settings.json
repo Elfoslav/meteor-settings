@@ -1,0 +1,6 @@
+{
+  "public": {
+    "someKey": "some value"
+  },
+  "secretKey": "This is available only on the server"
+}
